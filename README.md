@@ -1,8 +1,8 @@
-- 👋 Hi, I’m Ryan Brown@R-Brown8
-- 👀 I’m interested in watching sports, exercising and working in the bay area
+- 👋 Hi, I’m Ryan Brown @R-Brown8
+- 👀 I’m interested in watching sports, exercising and learning more about code!
 - 🌱 I’m currently learning python geospatial mapping
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on fun projects
+- 📫 How to reach me: shoot me an email!
 
 <!---
 R-Brown8/R-Brown8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
