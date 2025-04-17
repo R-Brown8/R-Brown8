@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Ryan Brown @R-Brown8
-- 👀 I’m interested in watching sports, exercising and learning more about code!
-- 🌱 I’m currently learning Maze/Pathfinding Algorithms
+- 👀 I’m interested in watching college basketball, exercising and learning more about code!
+- 🌱 I’m currently working on -- my cooking app in JavaScript --
 - 🤝 I’m looking to collaborate on fun projects
 - 📫 How to reach me: shoot me an email!
 
